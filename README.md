@@ -29,8 +29,6 @@ Cada projeto possui sua própria pasta com documentação detalhada sobre instal
 
 ## 🤝 Conecte-se Comigo!
 
-Se quiser ver mais sobre meus projetos ou colaborar, me encontre no **GitHub**: [github.com/seuusuario](#)
+Se quiser ver mais sobre meus projetos ou colaborar, me encontre no **GitHub**: [github.com/cleitoncfs](#)
 
 ---
-
-Este README destaca seus projetos e tecnologias de forma mais envolvente e profissional. Se quiser incluir mais detalhes ou personalizações, posso te ajudar a ajustar! 😃
