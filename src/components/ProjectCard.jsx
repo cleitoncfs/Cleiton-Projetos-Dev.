@@ -8,10 +8,11 @@ const ProjectCard = ({ project }) => {
             <span>{project.description}</span>
             <Link to={project.link} target="_blank" rel="noopener noreferrer">
                 <img
-                    src={`/src/assets/images/${project.image}`}
+                    src={`/images/${project.image}`}
                     alt={`Projeto - ${project.title}`}
                     loading="lazy"
                 />
+
                 <button>Ver site</button>
             </Link>
         </div>
