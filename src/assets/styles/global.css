@@ -16,8 +16,7 @@ body {
 
 /* Cabeçalho parallax */
 .parallax {
-    background: url("/src/assets/images/img-tech.png") no-repeat center
-        center/cover;
+    background: url("/images/img-tech.png") no-repeat center center/cover;
     color: #fff;
     text-align: center;
     padding: 4rem 2rem;
