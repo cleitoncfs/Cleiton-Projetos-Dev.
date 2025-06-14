@@ -73,11 +73,11 @@ const projects = [
     },
     {
         id: 10,
-        title: "Imobiliária Santos",
+        title: "Baber Shop",
         description: "Desenvolvido com React",
-        image: "img-projeto-Imobiliaria-Santos.png",
-        link: "https://imobiliaria-santos-react.netlify.app/",
-        tags: ["react", "imobiliária"],
+        image: "barber-shop.png",
+        link: "https://barber-shop-orcin-sigma.vercel.app/",
+        tags: ["react", "beleza"],
     },
     {
         id: 11,
@@ -105,11 +105,11 @@ const projects = [
     },
     {
         id: 14,
-        title: "A Era Artificial",
+        title: "Imobiliária Santos",
         description: "Desenvolvido com React",
-        image: "img-projeto-Divulgacao-Livro.png",
-        link: "https://a-eraartificial.netlify.app/",
-        tags: ["react", "literatura"],
+        image: "img-projeto-Imobiliaria-Santos.png",
+        link: "https://imobiliaria-santos-react.netlify.app/",
+        tags: ["react", "imobiliária"],
     },
     {
         id: 15,
@@ -273,6 +273,14 @@ const projects = [
         image: "banda-favorita.png",
         link: "https://cleitoncfs.github.io/The-Offspring/",
         tags: ["html", "css", "música"],
+    },
+    {
+        id: 35,
+        title: "A Era Artificial",
+        description: "Desenvolvido com React",
+        image: "img-projeto-Divulgacao-Livro.png",
+        link: "https://a-eraartificial.netlify.app/",
+        tags: ["react", "literatura"],
     },
 ];
 
