@@ -282,6 +282,14 @@ const projects = [
         link: "https://a-eraartificial.netlify.app/",
         tags: ["react", "literatura"],
     },
+    {
+        id: 36,
+        title: "Agencia de Disign Digital",
+        description: "Desenvolvido com React",
+        image: "img-projeto-Agencia-Disign-Digital.png",
+        link: "https://agencia-ddigital.netlify.app/",
+        tags: ["react", "design", "agencia"],
+    },
 ];
 
 export default projects;
