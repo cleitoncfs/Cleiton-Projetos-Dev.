@@ -33,11 +33,11 @@ const projects = [
     },
     {
         id: 5,
-        title: "Gelateria Artesanal",
+        title: "Agencia de Disign Digital",
         description: "Desenvolvido com React",
-        image: "img-projeto-Gelateria-artesanal.png",
-        link: "https://gelateria-artesanal.netlify.app/",
-        tags: ["react", "alimentação"],
+        image: "img-projeto-Agencia-Disign-Digital.png",
+        link: "https://agencia-ddigital.netlify.app/",
+        tags: ["react", "design", "agencia"],
     },
     {
         id: 6,
@@ -284,11 +284,11 @@ const projects = [
     },
     {
         id: 36,
-        title: "Agencia de Disign Digital",
+        title: "Gelateria Artesanal",
         description: "Desenvolvido com React",
-        image: "img-projeto-Agencia-Disign-Digital.png",
-        link: "https://agencia-ddigital.netlify.app/",
-        tags: ["react", "design", "agencia"],
+        image: "img-projeto-Gelateria-artesanal.png",
+        link: "https://gelateria-artesanal.netlify.app/",
+        tags: ["react", "alimentação"],
     },
 ];
 
