@@ -25,19 +25,19 @@ const projects = [
     },
     {
         id: 4,
+        title: "Agencia de Design Digital",
+        description: "Desenvolvido com React",
+        image: "img-projeto-Agencia-Design-Digital.png",
+        link: "https://agencia-ddigital.netlify.app/",
+        tags: ["react", "design", "agencia"],
+    },
+    {
+        id: 5,
         title: "Clínica Médica",
         description: "Desenvolvido com React",
         image: "img-projeto-Clinica-Medica.png",
         link: "https://cm-life.netlify.app/",
         tags: ["react", "saúde"],
-    },
-    {
-        id: 5,
-        title: "Agencia de Disign Digital",
-        description: "Desenvolvido com React",
-        image: "img-projeto-Agencia-Disign-Digital.png",
-        link: "https://agencia-ddigital.netlify.app/",
-        tags: ["react", "design", "agencia"],
     },
     {
         id: 6,
