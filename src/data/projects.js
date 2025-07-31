@@ -290,6 +290,14 @@ const projects = [
         link: "https://gelateria-artesanal.netlify.app/",
         tags: ["react", "alimentação"],
     },
+    {
+        id: 37,
+        title: "Clinica Dentes Saudáveis",
+        description: "Desenvolvido com React",
+        image: "img-projeto-Clinica-dentes-saudaveis.png",
+        link: "https://clinicadentessaudaveis.netlify.app/",
+        tags: ["react", "saúde"],
+    },
 ];
 
 export default projects;
