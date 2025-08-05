@@ -65,11 +65,11 @@ const projects = [
     },
     {
         id: 9,
-        title: "Manhattan Coffee House",
+        title: "Game List",
         description: "Desenvolvido com React",
-        image: "img-projeto-Manhattan Coffee House.png",
-        link: "https://manhattan-coffee-house.netlify.app/",
-        tags: ["react", "alimentação"],
+        image: "img-projeto-game-list.png",
+        link: "https://gamelist-lista-jogos.netlify.app/",
+        tags: ["react", "games", "entreterimento"],
     },
     {
         id: 10,
@@ -297,6 +297,14 @@ const projects = [
         image: "img-projeto-Clinica-dentes-saudaveis.png",
         link: "https://clinicadentessaudaveis.netlify.app/",
         tags: ["react", "saúde"],
+    },
+    {
+        id: 38,
+        title: "Manhattan Coffee House",
+        description: "Desenvolvido com React",
+        image: "img-projeto-Manhattan Coffee House.png",
+        link: "https://manhattan-coffee-house.netlify.app/",
+        tags: ["react", "alimentação"],
     },
 ];
 
