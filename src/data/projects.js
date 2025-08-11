@@ -33,11 +33,11 @@ const projects = [
     },
     {
         id: 5,
-        title: "Clínica Médica",
+        title: "Cardápio Gourmet",
         description: "Desenvolvido com React",
-        image: "img-projeto-Clinica-Medica.png",
-        link: "https://cm-life.netlify.app/",
-        tags: ["react", "saúde"],
+        image: "img-projeto-Cardapio-Gourmet.png",
+        link: "https://cardapio-gourmet.netlify.app/",
+        tags: ["react", "alimentação"],
     },
     {
         id: 6,
@@ -57,11 +57,11 @@ const projects = [
     },
     {
         id: 8,
-        title: "Pizzaria da Nonna",
+        title: "Clínica Médica",
         description: "Desenvolvido com React",
-        image: "img-projeto-Pizzaria-da-Nonna.png",
-        link: "https://pizzariadanonna.netlify.app/",
-        tags: ["react", "alimentação"],
+        image: "img-projeto-Clinica-Medica.png",
+        link: "https://cm-life.netlify.app/",
+        tags: ["react", "saúde"],
     },
     {
         id: 9,
@@ -304,6 +304,14 @@ const projects = [
         description: "Desenvolvido com React",
         image: "img-projeto-Manhattan Coffee House.png",
         link: "https://manhattan-coffee-house.netlify.app/",
+        tags: ["react", "alimentação"],
+    },
+    {
+        id: 39,
+        title: "Pizzaria da Nonna",
+        description: "Desenvolvido com React",
+        image: "img-projeto-Pizzaria-da-Nonna.png",
+        link: "https://pizzariadanonna.netlify.app/",
         tags: ["react", "alimentação"],
     },
 ];
